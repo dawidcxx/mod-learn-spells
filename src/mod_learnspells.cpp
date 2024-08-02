@@ -4,6 +4,7 @@
 #include "Player.h"
 #include "ScriptMgr.h"
 #include "SpellInfo.h"
+#include "SpellMgr.h"
 
 class LearnSpellsOnLevelUp : public PlayerScript
 {
